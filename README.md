@@ -3,7 +3,7 @@
 **Globalcloudpay driver for the Omnipay PHP payment processing library**
 
 [![Build Status](https://travis-ci.org/dercoder/omnipay-globalcloudpay.png?branch=master)](https://travis-ci.org/dercoder/omnipay-globalcloudpay)
-[![Dependency Status](https://www.versioneye.com/user/projects/54366b4be993e89c45000137/badge.png)](https://www.versioneye.com/user/projects/54366b4be993e89c45000137)
+[![Dependency Status](https://www.versioneye.com/user/projects/5523d69a971f78433900061f/badge.png)](https://www.versioneye.com/user/projects/5523d69a971f78433900061f)
 
 [![Latest Stable Version](https://poser.pugx.org/dercoder/omnipay-globalcloudpay/v/stable.png)](https://packagist.org/packages/dercoder/omnipay-globalcloudpay)
 [![Total Downloads](https://poser.pugx.org/dercoder/omnipay-globalcloudpay/downloads.png)](https://packagist.org/packages/dercoder/omnipay-globalcloudpay)
